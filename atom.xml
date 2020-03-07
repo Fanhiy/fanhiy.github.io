@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fanhiy-project.github.io/</id>
+    <id>https://fanhiy.github.io/fanhiy-project.github.io/</id>
     <title>fanhiy</title>
-    <updated>2020-03-07T07:12:11.306Z</updated>
+    <updated>2020-03-07T07:15:17.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fanhiy-project.github.io/"/>
-    <link rel="self" href="https://fanhiy-project.github.io//atom.xml"/>
+    <link rel="alternate" href="https://fanhiy.github.io/fanhiy-project.github.io/"/>
+    <link rel="self" href="https://fanhiy.github.io/fanhiy-project.github.io//atom.xml"/>
     <subtitle>Fanhiy&apos;s design_projects</subtitle>
-    <logo>https://fanhiy-project.github.io//images/avatar.png</logo>
-    <icon>https://fanhiy-project.github.io//favicon.ico</icon>
+    <logo>https://fanhiy.github.io/fanhiy-project.github.io//images/avatar.png</logo>
+    <icon>https://fanhiy.github.io/fanhiy-project.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, fanhiy</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fanhiy-project.github.io//post/hello-gridea</id>
-        <link href="https://fanhiy-project.github.io//post/hello-gridea">
+        <id>https://fanhiy.github.io/fanhiy-project.github.io//post/hello-gridea</id>
+        <link href="https://fanhiy.github.io/fanhiy-project.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
